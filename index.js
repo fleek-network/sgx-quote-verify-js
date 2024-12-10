@@ -1,6 +1,4 @@
-const tls = require("node:tls");
 const https = require("node:https");
-const x509 = require("@peculiar/x509");
 
 const sqvw = require("sgx-quote-verify-wasm");
 

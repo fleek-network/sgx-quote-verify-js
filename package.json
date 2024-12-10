@@ -9,7 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@peculiar/x509": "^1.12.3"
-  }
+  "dependencies": {}
 }
