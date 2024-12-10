@@ -1,5 +1,5 @@
 {
-  "name": "sgx-quote-verify",
+  "name": "gx-quote-verify",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "@fleek-platform/sgx-quote-verify-wasm": "^0.1.0"
+  }
 }

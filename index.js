@@ -1,6 +1,6 @@
 const https = require("node:https");
 
-const sqvw = require("sgx-quote-verify-wasm");
+const sqvw = require("@fleek-platform/sgx-quote-verify-wasm");
 
 function get(url) {
   return new Promise((resolve, reject) => {
