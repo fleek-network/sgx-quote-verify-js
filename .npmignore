@@ -1,0 +1,35 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore local environment files
+.env
+.env.*
+
+# Ignore test-related files
+test/
+tests/
+*.spec.js
+*.test.js
+
+# Ignore build artifacts if not needed
+dist/
+build/
+
+# Ignore documentation files
+# *.md
+docs/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore other temporary or unnecessary files
+.DS_Store
+Thumbs.db

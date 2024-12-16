@@ -1,15 +1,15 @@
 {
-  "name": "gx-quote-verify",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@fleek-platform/sgx-quote-verify",
+  "version": "0.1.0",
+  "description": "Verify SGX Remote Attestation Library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "fleek",
   "dependencies": {
     "@fleek-platform/sgx-quote-verify-wasm": "^0.1.0"
-  }
+  },
+  "repository": "https://github.com/fleek-network/sgx-quote-verify-js"
 }
